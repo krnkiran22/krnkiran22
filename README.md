@@ -125,12 +125,6 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
-      </a>
-      <br>Scala
-    </td>
-    <td align="center" width="96">
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
