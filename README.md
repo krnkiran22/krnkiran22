@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran R</h1>
 <h3 align="center">A passionate FullStack and Web3 developer from India</h3>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m a **Full stack** and **Web3** Developer
 
 - 📫 How to reach me **kirandev2210@gmail.com**
 
