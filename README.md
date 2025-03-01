@@ -31,8 +31,6 @@
       </a>
       <br>Python
     </td>
-    
-
     <td align="center" width="96">
       <a href="#krnkiran22">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
@@ -78,7 +76,6 @@
       </a>
       <br>Linux
     </td>
-
     <td align="center" width="96">
       <a href="#krnkiran22">
         <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
@@ -105,8 +102,7 @@
       </a>
       <br>TailWind
     </td>
-
-    <td align="center" width="96">
+ <td align="center" width="96">
       <a href="#krnkiran22">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
@@ -119,7 +115,7 @@
       <br>Solidity
     </td>
   
-          <td align="center" width="96"> 
+  <td align="center" width="96"> 
       <a href="#krnkiran22" >
         <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" />
       </a>
