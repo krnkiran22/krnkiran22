@@ -26,7 +26,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#vishalmet">
+      <a href="#krnkiran22">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -55,23 +55,23 @@
       </a>
       <br>Node JS
     </td>
-     <td align="center" width="96"> 
-      <a href="#krnkiran22" >
-        <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="Mongo DB" />
+    <td align="center" width="96"> 
+      <a href="#krnkiran22">
+        <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
   </tr>
-  
+
   <tr>
     <td align="center" width="96"> 
-      <a href="#krnkiran22" >
+      <a href="#krnkiran22">
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
       <br>C Lang
     </td>
     <td align="center" width="96">
-      <a href="#krnkiran22" >
+      <a href="#krnkiran22">
         <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
@@ -83,30 +83,31 @@
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <a href="#vishalmet" >
+      <a href="#vishalmet">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
   </tr>
-   <tr>
-        <td align="center" width="96">
+
+  <tr>
+    <td align="center" width="96">
       <a href="#krnkiran22">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
     </td>
-       <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#krnkiran22">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>TailWind
+      <br>Tailwind
     </td>
- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#krnkiran22">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Material ui
+      <br>Material UI
     </td>
     <td align="center" width="96">
       <a href="#krnkiran22">
@@ -114,17 +115,15 @@
       </a>
       <br>Solidity
     </td>
-  
-  <td align="center" width="96"> 
-      <a href="#krnkiran22" >
+    <td align="center" width="96"> 
+      <a href="#krnkiran22">
         <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
-   
   </tr>
-    
 </table>
+
 
 
 
