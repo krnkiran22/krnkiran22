@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey there 👋, I'm Kiran</h1>
 <h3>I'm a seasoned front-end developer proficient in ReactJS (Vite), NextJS and Tailwind CSS, with expertise in React Native for mobile app development. Additionally, I've extended my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology.</h3>
 <h4>
