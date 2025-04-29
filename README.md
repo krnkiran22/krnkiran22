@@ -10,8 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=krnkiran22&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="krnkiran22" align="center" justify="center" />
 </a>
 
-
-
 <br>
 
 <h2 align="left" id="krnkiran22">Favorite Tech</h2>
