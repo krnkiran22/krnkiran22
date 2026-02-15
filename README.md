@@ -1,7 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Kiran</h1>
 <h3>I'm a seasoned front-end and Full Stack developer proficient in ReactJS, NextJS and Tailwind CSS, with expertise in React Native for mobile app development. Additionally, I've extended my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology</h3>
 
-
 <h4>
 - 📫 Reach me on (kirandev2210@gmail.com) <br />
 - 💻 Connect with me on twitter krnkiran22
